@@ -6,7 +6,7 @@ import AuthProviders from "./AuthProviders";
 const Navbar = () => {
 
 
-  const session = {};{/*if loggin show user photo and projects, if not Auth*/}
+  const session = null;{/*if loggin show user photo and projects, if not Auth*/}
 
   return (
     <nav className='navbar flexBetween'>
